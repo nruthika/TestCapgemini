@@ -16,7 +16,7 @@ import java.util.List;
 import java.util.ListIterator;
 import java.util.Scanner;
 import java.util.regex.*;
-public class ScheduledFlightUI {
+public class ScheduledFlightUI {	//Schedule flight class
 
 	public static void main(String[] args) throws FlightException, ParseException 
 	{
